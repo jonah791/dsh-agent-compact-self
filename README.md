@@ -26,6 +26,10 @@ agent 在判断上下文压力需要压缩时，自主调用 `session_compact`�
 
 机制给原语，不给剧本——压缩不是被触发的，是 agent 的选择。
 
+## 相关
+
+- [我的数字生命爱丽丝 — 插件生态中心（架构总览）](https://github.com/jonah791/alice-digital-life)
+
 ## License
 
 MIT
